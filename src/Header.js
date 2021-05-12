@@ -25,7 +25,7 @@ export default class Header extends Component{
 src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png" alt=""/>
 </Link>
 <div className='header_center'>
-<input type="text" placeholder="search your deastination"/>
+<input type="text" placeholder="search your destination"/>
 <SearchIcon/>
 </div>
 
@@ -40,14 +40,7 @@ src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.pn
       <FaAlignRight className="nav-icons"/>
     </button>
   </div>
-  <ul className={this.state.isOpen?"nav-links show-nav":"nav-links"}>
-    <li>
-      <Link to="/">Home</Link>
-    </li>
-    <li>
-      <Link to="/rooms">Rooms</Link>
-      </li>
-  </ul>
+  
 </div>
 
 

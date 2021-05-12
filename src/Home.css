@@ -49,6 +49,15 @@
   }
   .home_section2>image{
       height: 100;
+      width: 100;
+  }
+  .home_section2>a  {
+    color: black;
+    text-decoration-color: white;
+ 
+  }
+  .home_section2>image{
+      height: 100;
       width: 100%;
   }
   .home_section3>a  {
@@ -59,3 +68,18 @@
       color: #a88f59;
       font-size:xx-large;
   }
+  .home>h1{
+      color:maroon;
+  }
+  .home>h2{
+    color:black;
+}
+.home_section2>h2{
+    font-style: italic;
+    text-align: center;
+}
+.home_section3>h2{
+    font-style: italic;
+    text-align: center;
+    color: maroon;
+}

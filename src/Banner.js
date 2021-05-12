@@ -8,6 +8,7 @@ function Banner(){
     const [showSearch,setShowSearch]= useState(false);
     return(
         <div className= 'banner'>
+          
             <div className='banner_search'>
             {showSearch && <Search />}
 

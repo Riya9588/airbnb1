@@ -7,8 +7,11 @@ import Footer from './Footer';
 import SearchPage from './SearchPage';
 import './Rajasthan.png';
 import Giftspage from './Giftspage';
+//import './Login/login';
  import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
  import ReactPlayer from 'react-player';
+
+
 
 //import Navbar from "./components/Navbar";
  
@@ -36,12 +39,11 @@ export function App() {
       <Switch>
       <Route exact path="/" component={Home}/>
       
-    <Route exact path="/Giftspage" component={Giftspage}/>
-  
+  <Route exact path="/Giftspage" component={Giftspage}/>
    <Route component={Error}/>
     </Switch>
    
-    <Route exact path ="/" component={Home}/>
+  
     
     {/* <Route path="/giftspage">
       <giftspage />
