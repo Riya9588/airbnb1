@@ -10,6 +10,9 @@ import Giftspage from './Giftspage';
 //import './Login/login';
  import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
  import ReactPlayer from 'react-player';
+ import Getstarted from './Getstarted';
+ import Hotelform from './Hotelform';
+ import Roomie from './Roomie';
 
 
 
@@ -40,6 +43,9 @@ export function App() {
       <Route exact path="/" component={Home}/>
       
   <Route exact path="/Giftspage" component={Giftspage}/>
+  <Route exact path="/Getstarted" component={Getstarted}/>
+  <Route exact path="/Hotelform" component={Hotelform}/>
+  <Route exact path="/Roomie" component={Roomie}/>
    <Route component={Error}/>
     </Switch>
    

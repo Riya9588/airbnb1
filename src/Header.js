@@ -8,6 +8,7 @@ import SearchIcon from "@material-ui/icons/Search";
  import { Link } from "react-router-dom";
  import { IconButton } from '@material-ui/core';
 import {FaAlignRight} from 'react-icons/fa';
+import Getstarted from './Getstarted';
 
 export default class Header extends Component{
   state={
@@ -46,7 +47,7 @@ src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.pn
 
 
 <div className='header_right'>
-  <p>Become a host</p>
+ <p>Become a host</p>
   <LanguageIcon/>
   
   <ExpandMoreIcon/>

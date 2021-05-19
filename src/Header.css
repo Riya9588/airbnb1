@@ -23,6 +23,8 @@
   height: 30px;
   border: 1px solid lightgray;
   border-radius: 999px;
+  text-align: center;
+  padding-left: 10%;
   
 }
 .header_center>input{

@@ -1,0 +1,156 @@
+.hi{
+    color: white;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align:left;
+    margin-left: 3%;
+}
+.hii{
+    color: white;
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    text-align:left;
+    font-size:350%;
+    margin-left: 3%;
+}
+.hello{
+    color: white;
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    margin-left: 3%;
+    text-align:left;
+
+}
+.hell{
+    color: white;
+    background-color: deeppink;
+    position: absolute;
+    top: 120%;
+    text-align: left;
+    
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 9px;
+   
+    text-align:center;
+    margin-left: 3%;
+}
+.text-on-image{
+    width: 90%;
+    
+}
+
+
+
+.cont{
+    color: white;
+    position: absolute;
+    top: 300%;
+    width: 100%;
+    text-align:left;
+    margin-left: 3%;
+}
+
+.cont1{
+    color: white;
+    position: absolute;
+    top: 320%;
+    width: 100%;
+    text-align:left;
+    font-size:350%;
+    margin-left: 3%;
+}
+.cont2{
+    color: white;
+    background-color: deeppink;
+    position: absolute;
+    top: 350%;
+    
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 9px;
+   
+    text-align:center;
+    margin-left: 3%;
+}
+
+.sil{
+    color: white;
+    background-color: darkblue;
+    position: absolute;
+    
+    
+    padding: 18px 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 9px;
+    
+   
+    text-align:center;
+}
+
+   .mydiv{
+       background: white;
+       padding:20px;
+       border-radius:10px;
+       text-align: center;
+       margin: 10px;
+       text-align: left;
+   }
+ .mydivcontainer{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr; 
+   }
+   .mydivcontainer1{
+    display: grid;
+    grid-template-columns: 1fr 1fr ; 
+ }
+ .mydiv1{
+    background: lightgrey;
+    padding:20px;
+    border-radius:10px;
+    text-align: center;
+    margin: 10px;
+}
+.mydiv3{
+    background: white;
+    padding:20px;
+    text-align: left;
+    border-radius:10px;
+    text-align: center;
+    margin: 10px;
+}
+.mydivcontainer3{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr; 
+}
+.mydiv4{
+    background: white;
+    padding:20px;
+    border-radius:10px;
+    text-align: center;
+    margin: 10px;
+}
+.mydivcontainer4{
+   display: grid;
+   grid-template-columns: 1fr 1fr ; 
+}
+.riya{
+   font-style:normal;
+   font-size:larger;
+  }
+  

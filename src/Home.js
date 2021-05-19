@@ -29,7 +29,7 @@ function Home(){
       <ReactPlayer width='100%'  controls url='videos/videoplayback.mp4' /></div>*/}
           </div>
           <div className="header-video">
-              <video src="videos/videoplayback.mp4" autoplay='true' muted="false" loop="true"></video>
+              <video src="videos/videoplayback.mp4" control="true" autoplay='true' muted="false" loop="true"></video>
               </div>
 
             <br></br><br></br><br></br><br></br>

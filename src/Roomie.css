@@ -1,0 +1,87 @@
+
+
+.image{
+    height: 20%;
+    width:100%;
+  
+}
+
+.name{
+    text-align: left;
+    padding-left: 5%;
+}
+.address{
+    text-align: left;
+    padding-left: 5%;
+}
+.host{
+    text-align: left;
+    padding-left: 5%;
+}
+.detail{
+    text-align: left;
+    padding-left: 5%;
+}
+.photo{
+    text-align: left;
+    padding-left: 5%;
+}
+.icon{
+    text-align: left;
+   margin-right: 88%;
+    justify-content: left;
+    align-items: left;
+  
+}
+.icon1{
+    text-align: left;
+    margin-right: 88%;
+     justify-content: left;
+     align-items: left;
+    
+}
+.attribute{
+    text-align: left;
+    padding-left: 10%;
+    top: 0%;
+}
+.icon2{
+    text-align: left;
+    margin-right: 88%;
+     justify-content: left;
+     align-items: left;
+}
+.icon3{
+    text-align: left;
+    margin-right: 88%;
+     justify-content: left;
+     align-items: left;
+}
+.icon4{
+    text-align: left;
+    margin-right: 88%;
+     justify-content: left;
+     align-items: left; 
+}
+.para1{
+    text-align: left;
+    padding-left: 5%;
+}
+.amenities{
+    text-align: left;
+    padding-left: 5%;
+}
+.services{
+
+    text-align: left;
+    padding-left: 5%;
+}
+.location{
+    text-align: left;
+    padding-left: 5%;
+}
+
+.arrangement{
+    text-align: left;
+    padding-left: 5%;
+}
